@@ -1,0 +1,29 @@
+Throw, and Try...Catch...Finally:
+
+-The try statement defines a code block to run (to try).
+
+-The catch statement defines a code block to handle any error.
+--The JavaScript statements try and catch come in pairs.
+
+-The finally statement defines a code block to run regardless of the result.
+--The finally statement lets you execute code, after try and catch, regardless of the result.
+
+-The throw statement defines a custom error.
+--The throw statement allows you to create a custom error.
+
+--When executing JavaScript code, different errors can occur,Errors can be coding errors made by the programmer, errors due to wrong input, and other unforeseeable things.
+
+Error Name Values:
+EvalError	An error has occurred in the eval() function
+RangeError	A number "out of range" has occurred
+ReferenceError	An illegal reference has occurred
+SyntaxError	A syntax error has occurred
+TypeError	A type error has occurred
+URIError	An error in encodeURI() has occurred
+---------------------
+What are libraries?
+
+-A library is a collection of pre-written code that you can use to perform specific tasks.
+-Libraries are often used to reduce the amount of code a programmer needs to write by providing reusable functions or classes that can be called upon as needed.
+-All libraries are shared into two classifications. All libraries are either Static or Dynamic.
+
